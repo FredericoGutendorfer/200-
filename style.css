@@ -3,6 +3,10 @@
 
 body { background-image: linear-gradient(to left, red, purple, Blue); }
 
+.link_underline{
+text-decoration:none;
+}
+
 img {
   display: block;
   margin: 0 auto;
