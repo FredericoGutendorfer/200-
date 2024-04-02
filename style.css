@@ -20,7 +20,10 @@ fot-family: Berlin Sans FB Demi;
 }
 }
 
-p {
+p{ text-align: justify }
+p{ text-align: center }
+
+  
 backgrand-color: gray ;
 color: White ;
 font-size: 30pt;
@@ -29,5 +32,4 @@ fot-family: Cooper Black;
   text-align: center;
   
   border: 1px solid;
-}
-}
+
