@@ -38,4 +38,8 @@ text-align: center;
 outline: none;  
 }
 
-a { border-bottom: none; }
+a { 
+text-decoration: none;
+border-bottom: none;
+outline: none;
+}
