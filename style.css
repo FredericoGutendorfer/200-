@@ -23,13 +23,14 @@ fot-family: Berlin Sans FB Demi;
 p{ text-align: justify }
 p{ text-align: center }
 
-  
+p  {
 backgrand-color: gray ;
 color: White ;
 font-size: 30pt;
 fot-family: Cooper Black;
 .container {
   text-align: center;
-  
+  text-align:justify;
   border: 1px solid;
-
+}
+}
