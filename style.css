@@ -13,11 +13,7 @@ backgrand-color: gray ;
 color: White ;
 font-size: 40pt;
 fot-family: Berlin Sans FB Demi;
-.container {
-  text-align: center;
-  
-  border: 1px solid;
-}
+text-align: center;
 }
 
 
