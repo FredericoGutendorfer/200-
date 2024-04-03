@@ -1,7 +1,7 @@
 
 @charset "utf-8";
 
-body { 
+html { 
   background-image: linear-gradient(to left, blue, red); 
   background-size: auto;
   background-repeat: no-repeat;
