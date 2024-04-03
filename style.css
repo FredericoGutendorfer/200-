@@ -1,7 +1,9 @@
 
 @charset "utf-8";
 
-body { background-image: linear-gradient(to left, blue, purple30%, red); }
+body { 
+  background-image: linear-gradient(to left, blue, red); 
+}
 
 .link_underline{
 text-decoration: none;
@@ -14,8 +16,7 @@ img{
 }
 
 h1{
-background-color: gray;
-color: White;
+color: white;
 font-size: 40pt;
 font-family: Berlin Sans FB Demi;
 text-align: center;
@@ -28,8 +29,7 @@ outline: none;
 
 
 p{
-background-color: gray;
-color: White ;
+color: white;
 font-size: 28pt;
 font-family: Cooper Black;
 text-align: center;
@@ -37,8 +37,7 @@ text-align: center;
 
 
 h2{
-background-color: white;
-color: White;
+color: white;
 font-size: 35pt;
 font-family: Berlin Sans FB Demi;
 text-align: center;
@@ -47,7 +46,8 @@ border-bottom: none;
 outline: none;
 }
 
-a{ 
+a{
+color: white;
 border-bottom: none;
 text-decoration: none;
 outline: none;
