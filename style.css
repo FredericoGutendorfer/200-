@@ -3,8 +3,8 @@
 
 html { 
   background-image: linear-gradient(to left, blue, red); 
-  background-size: auto;
-  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: auto;
 }
 
 .link_underline{
