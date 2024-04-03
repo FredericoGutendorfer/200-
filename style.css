@@ -1,7 +1,7 @@
 
 @CHARSET'UTF-8';
 
-body { background-image: linear-gradient(to left, blue, purple20%, red); }
+body { background-image: linear-gradient(to left, blue, purple30%, red); }
 
 .link_underline{
 text-decoration:none;
