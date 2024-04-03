@@ -3,7 +3,7 @@
 
 body { 
   background-image: linear-gradient(to left, blue, red); 
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 
