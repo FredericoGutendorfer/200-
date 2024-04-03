@@ -3,6 +3,8 @@
 
 body { 
   background-image: linear-gradient(to left, blue, red); 
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .link_underline{
@@ -25,8 +27,6 @@ border-bottom: none;
 outline: none;
   
 }
-
-
 
 p{
 color: white;
