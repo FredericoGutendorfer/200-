@@ -58,7 +58,7 @@ h1#principal{
   color: red;
 }
 
-p.secundario{
+p#secundario{
   font-size: 20;
   font-family: Verdana;
   color: blue;
