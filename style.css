@@ -52,3 +52,7 @@ border-bottom: none;
 text-decoration: none;
 outline: none;
 }
+h1#principal{
+  font-size: 16pt;
+  font-family: Arial;
+  color: blue
