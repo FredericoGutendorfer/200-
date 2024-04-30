@@ -55,4 +55,11 @@ outline: none;
 h1#principal{
   font-size: 16pt;
   font-family: Arial;
-  color: blue
+  color: red;
+}
+
+p.secundario{
+  font-size: 20;
+  font-family: Verdana;
+  color: blue;
+}
